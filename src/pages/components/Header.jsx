@@ -7,7 +7,7 @@ function Header() {
                 <div className="flex items-center h-full">
                     <div className="w-full md:w-3/5">
                         <h1 className="text-center md:text-left text-5xl md:text-6xl text-gray-900 dark:text-[#f2f2f2] capitalize font-semibold">
-                            Hi, I'm Mohammed Mostefaoui, I'm Mobile Developer.
+                            Hi, I'm user , I'm Mobile Developer.
                         </h1>
                     </div>
                     <div className="hidden md:block md:w-2/5">

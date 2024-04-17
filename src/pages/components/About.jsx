@@ -9,7 +9,7 @@ function About() {
                         About me
                     </h2>
                     <p className="text-xl text-gray-50 mb-4 text-center w-5/6 mx-auto leading-relaxed">
-                        Hi, I’m Meziane Khalil. I’m a Front-End Developer located in Algeria. I have a serious passion for
+                        Hi, I’m user. I’m a Front-End Developer located in Algeria. I have a serious passion for
                         frontend development and web accessibility. with a educational background in 💻 computer science.
                         I’m a self-taught developer and I’m always looking for new challenges to learn new technologies.
                     </p>

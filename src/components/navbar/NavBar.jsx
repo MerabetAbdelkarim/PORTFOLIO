@@ -35,7 +35,7 @@ const Navbar = ({ theme, toggleTheme }) => {
             <div className='sticky  top-0 z-50  shadow-sm bg-[#fdfdfd] dark:bg-[#162336] w-full  min-h-[50px]' >
                 <div className='container  flex justify-between items-center  h-16 text-black'>
                     {/* Logo */}
-                    <a href="/" className='capitalize font-medium text-gray-900 dark:text-[#f2f2f2]'>Mostefaoui Mohammed</a>
+                    <a href="/" className='capitalize font-medium text-gray-900 dark:text-[#f2f2f2]'>user</a>
 
                     {/* Desktop Navigation */}
                     <ul className='hidden md:flex space-x-4 capitalize text-gray-700 dark:text-[#f2f2f2]'>
@@ -70,7 +70,7 @@ const Navbar = ({ theme, toggleTheme }) => {
                         }
                     >
                         {/* Mobile Logo */}
-                        <h1 className='w-full text-2xl font-bold text-gray-700 dark:text-[#f2f2f2] m-4'>Mohammed Mostefaoui</h1>
+                        <h1 className='w-full text-2xl font-bold text-gray-700 dark:text-[#f2f2f2] m-4'>user</h1>
 
                         {/* Mobile Navigation Items */}
                         {navItems.map(item => (
