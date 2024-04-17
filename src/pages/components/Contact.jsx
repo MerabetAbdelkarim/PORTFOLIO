@@ -105,15 +105,15 @@ function Contact() {
                         <ul className="flex flex-col gap-2 ">
                             <li>
                                 <h3 className="text-xl text-gray-800 dark:text-gray-300 font-medium mb-1">Mobile</h3>
-                                <p className="text-xm text-gray-700 dark:text-gray-400">(+213)667119749</p>
+                                <p className="text-xm text-gray-700 dark:text-gray-400">(+213)778578282</p>
                             </li>
                             <li>
                                 <h3 className="text-xl text-gray-800 dark:text-gray-300 font-medium mb-1">Email</h3>
-                                <p className="text-xm text-gray-700 dark:text-gray-400">mohammed.amin.mostefaoui@gmail.com </p>
+                                <p className="text-xm text-gray-700 dark:text-gray-400">user@gmail.com </p>
                             </li>
                             <li>
                                 <h3 className="text-xl text-gray-800 dark:text-gray-300 font-medium mb-1">Address</h3>
-                                <p className="text-xm text-gray-700 dark:text-gray-400">Chettia, chlef Algeria</p>
+                                <p className="text-xm text-gray-700 dark:text-gray-400">Algeria</p>
                             </li>
                         </ul>
                     </div>
