@@ -13,7 +13,7 @@ function About() {
                         frontend development and web accessibility. with a educational background in 💻 computer science.
                         I’m a self-taught developer and I’m always looking for new challenges to learn new technologies.
                     </p>
-                    <a href="https://docs.google.com/document/d/1RoT47ic6VLn_-yPZNhOHTTD92qDsIraqtZ_i5MED3r8/edit?usp=sharing"
+                    <a href="/"
                         target="_blank"
                         className="block mx-auto text-center w-48 border-2 border-solid border-white px-8 py-2 text-white rounded-sm text-lg  focus:outline-none focus:ring-2 focus:ring-blue-300">My
                         resume
